@@ -1,5 +1,5 @@
 # pve8docker
-pve8docker based form detain 12 bookworm
+pve8docker based from detain 12 bookworm
 
 参考项目 https://github.com/Chocrates/qemu-build 而来
 
